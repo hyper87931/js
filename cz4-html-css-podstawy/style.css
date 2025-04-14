@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(216, 204, 32);
+}
+
+
+#your-name{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    background-color: antiquewhite;
+    border: 5px solid;
+    float:  left;
+    padding: 50px;
+}
+
+.first{
+    color: purple;
+    font-size: 24px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
